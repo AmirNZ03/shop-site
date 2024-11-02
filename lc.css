@@ -1,0 +1,293 @@
+#aa{
+    width: 40rem;
+    height: 20rem;
+}
+.as{
+    width: 50rem;
+    height: 25rem;
+}
+.swiper-wrapper{
+margin-left: 32rem;
+margin-top: 3.5rem;
+}
+.swiper{
+    margin-top: -28rem;
+}
+.lo{
+    margin-left: 65rem;
+    margin-top: -24rem;
+}
+.oi{
+    width: 56rem;
+    height: 25rem;
+}
+.lk{
+    margin-top: 1rem !important;
+}
+.aq{
+    right: 31rem;
+}
+.hcd{
+    margin-left: -47rem;
+}
+.nb{
+    margin-left: 49rem;
+}
+.dax{
+    margin-left: 59rem;
+}
+.qei{
+    margin-left: 68rem;
+}
+.vef{
+    margin-left: 76rem;
+}
+.ut{
+    margin-left: 32rem;
+}
+.li{
+    margin-left: 39rem;
+}
+.showbags{
+    visibility: hidden;
+}
+.soak{
+    height: 30rem;
+}
+.xax{
+    margin-left: 55rem;
+}
+/* .showbag{
+    background-color:white;
+    box-shadow:0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    width: 40rem;
+    height: 15rem;
+    border-radius: 0.5rem;
+    z-index: 1;
+} */
+.pe{
+    width: 80rem;
+}
+.pqw{
+    right: 30rem;
+}
+.pm{
+    width: 60rem;
+    height: 25rem;
+    margin-left: 22rem;
+    margin-top: -28rem;
+    
+}
+.ca{
+    margin-left: 56rem;
+}
+.saq{
+    width: 80rem;
+    height: 25rem;
+}
+.nh{
+    margin-left: 73rem;
+}
+.loi{
+    width: 80rem;
+    height: 10rem;
+}
+.lse{
+    height: 30rem;
+    margin-top: 5rem !important;
+}
+.hiy{
+    height: 100rem;
+}
+.ll{
+    margin-left: 50rem;
+    
+}
+.pas{
+    max-width: 70rem;
+}
+.apo:hover .yrt{
+    opacity: 1;
+    visibility: visible;
+    top: 9.5rem;
+    position: absolute;
+   
+    left: 0;
+    right: 0;
+    background-color: var(--white-color);
+    transition: all 200ms ease-in-out;
+    box-shadow: 0 0 10px 0 rgba(0, 0,0, 0.12);
+    width: 24rem;
+    border-radius:0.5rem ;
+    z-index: 1;
+    padding: 1rem 0;
+    border-bottom:3px solid var(--primary-color) ;
+}
+.aqa{
+    width: 82rem;
+    height: 40rem;
+}
+.yas{
+    width: 24rem;
+    height: 24rem;
+    margin-left: 60rem;
+    margin-top: 5rem;
+    right: 5rem;
+
+}
+.poi{
+    margin-left: 58rem;
+    margin-top: -32rem;
+}
+.ewr{
+    margin-top: 9rem !important;
+}
+.quy{
+    margin-left: 26rem;
+}
+/* .swiper-button-prev {
+   width: 5rem;
+   height: 5rem;
+   border-radius: 100%;
+   background-color: bisque;
+}
+  
+  .swiper-button-next {
+
+  } */
+ 
+  .wen{
+    background: linear-gradient(180deg, hsla(0, 24%, 91%, 0), hsla(0, 13%, 92%, 0.99) 99%, #fcfcfc); 
+    z-index: 1;
+}
+.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+  }
+  
+  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+  .active, .accordion:hover {
+    background-color: #ccc;
+  }
+  
+  /* Style the accordion panel. Note: hidden by default */
+  .panel {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
+  }
+  
+  /* .showbag{
+    background-color:white;
+    box-shadow:0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    width: 15rem;
+    height: 15rem;
+    border-radius: 0.5rem;
+    z-index: 1;
+}
+.showbags{
+    visibility: hidden;
+} */
+
+/* .aq{
+    visibility: hidden;
+} */
+.pey{
+    visibility: hidden;
+}
+.pey1{
+    visibility: hidden;
+}
+.pey2{
+    visibility: hidden;
+}
+.pey3{
+    visibility: hidden;
+}
+/* .aa{
+    background-color: red;
+    width: 10rem;
+    height: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+/* .aa{
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+background-color: aqua;
+    z-index: 9999;
+
+    
+    } */
+
+    /* .aq{
+    visibility: hidden;
+} */
+.aa{
+   
+    width: 80rem;
+    margin-top: 3rem;
+   
+margin-left: -15.5rem;
+z-index: 1;
+   
+}
+.aa1{
+   
+    width: 80rem;
+    margin-top: 3rem;
+   
+margin-left: -65rem;
+z-index: 1;
+   
+}
+.aa2{
+   
+    width: 80rem;
+    margin-top: 3rem;
+   
+margin-left: -75rem;
+z-index: 1;
+   
+}
+.aa3{
+   
+    width: 80rem;
+    margin-top: 3rem;
+   
+margin-left: -45rem;
+z-index: 1;
+   
+}
+.loq{
+    margin-left: 40rem;
+}
+.eri{
+    margin-left: 58rem;
+}
+.ern{
+    margin-left: 70rem;
+}
+
+
+.showbag{
+    background-color:white;
+    box-shadow:0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    /* width: 85rem !important; */
+    max-width: 70rem !important;
+    height: 23rem;
+    border-radius: 0.5rem;
+    z-index: 1;
+    margin-left: -17rem;
+    margin-top: 6rem;
+}
